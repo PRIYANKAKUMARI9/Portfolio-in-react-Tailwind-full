@@ -13,7 +13,7 @@ function Portfolio() {
      <div className=' max-w-screen-2xl container  px-4 md:px-20 '>
           <div className=' bg-green-200 md:h-[300px] md:w-[300px] md:mx-20 pt-5 pb-5 mt-24 rounded-2xl shadow-2xl hover:scale-105 duration-150'>
              <div className=' text-center justify-center mx-12 '>
-             <h1 className=' text-red-900 font-bold text-2xl'>My Porfolio</h1>
+             <h1 className=' text-red-900 font-bold text-2xl'>My Portfolio</h1>
              <p className=' mt-7 font-bold '>it is My previous portfolio that i have build up Earlier. it shaows the work i have created as well as my skill and Exeperience.</p>
             <a href="https://www.linkedin.com/in/priyanka-kumari-024742237/">
             <button className=' bg-red-800 h-[40px] w-[100px] mt-10 rounded-lg text-white shadow-2xl hover:bg-green-900'>View Project</button>
@@ -52,7 +52,7 @@ function Portfolio() {
 
           <div className=' bg-green-200 md:h-[300px] md:w-[300px] md:mx-20 pt-5 pb-5 mt-24 rounded-2xl shadow-2xl hover:scale-105 duration-150'>
              <div className=' text-center justify-center mx-12 '>
-             <h1 className=' text-red-900 font-bold text-2xl'>My Porfolio</h1>
+             <h1 className=' text-red-900 font-bold text-2xl'>My Portfolio</h1>
              <p className=' mt-7 font-bold '>it is My previous portfolio that i have build up Earlier. it shaows the work i have created as well as my skill and Exeperience.</p>
             <a href="https://www.linkedin.com/in/priyanka-kumari-024742237/">
             <button className=' bg-red-800 h-[40px] w-[100px] mt-10 rounded-lg text-white shadow-2xl hover:bg-green-900'>View Project</button>
