@@ -27,7 +27,7 @@ function Portfolio() {
              <div className=' text-center justify-center mx-12  '>
              <h1 className=' text-red-900 font-bold text-2xl'>Calculator</h1>
              <p className=' mt-7 font-bold '>Fully functional calculator with beautiful Minimilastic ui design and drop down menu.it can perform arithmetic eyc operations.</p>
-            <a href="https://www.linkedin.com/in/priyanka-kumari-024742237/">
+            <a href="https://fancy-lebkuchen-ea6f81.netlify.app">
             <button className=' bg-red-800 h-[40px] w-[100px] mt-10 rounded-lg text-white shadow-2xl hover:bg-green-900'>View Project</button>
             </a>
              </div>
@@ -39,7 +39,7 @@ function Portfolio() {
              <div className=' text-center justify-center mx-12  '>
              <h1 className=' text-red-900 font-bold text-2xl'>Calculator</h1>
              <p className=' mt-7 font-bold '>Fully functional calculator with beautiful Minimilastic ui design and drop down menu.it can perform arithmetic eyc operations.</p>
-            <a href="https://www.linkedin.com/in/priyanka-kumari-024742237/">
+            <a href="https://fancy-lebkuchen-ea6f81.netlify.app">
             <button className=' bg-red-800 h-[40px] w-[100px] mt-10 rounded-lg text-white shadow-2xl hover:bg-green-900'>View Project</button>
             </a>
              </div>
