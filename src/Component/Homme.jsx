@@ -26,7 +26,7 @@ function Homme() {
               />
               </div>
               <br />
-              <p className=' text-sm md:text-md text-justify'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam, recusandae consequatur. Accusamus sint libero eligendi laborum fuga repudiandae? Asperiores tempore eos animi dolores corrupti! Sint quos, mollitia architecto aliquam nesciunt, optio cum delectus sit voluptatum aut ratione quaerat veniam aperiam!</p>
+              <p className=' text-nurmal md:text-md text-justify'>Welcome to my portfolio! As a passionate web developer,I'm a front-end developer,passionate about creating and developing web interface.</p>
               <br />
           <div className=' space-y-4 '>
             <h1 className=' font-bold'>Available on</h1>
