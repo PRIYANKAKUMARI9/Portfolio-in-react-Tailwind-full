@@ -36,7 +36,7 @@ function Navbar() {
         <div className=' flex justify-between items-center h-16'>
             <div className=' flex space-x-2'>
                 <img src={img2} className=' h-12 w-12 rounded-full' alt="" />
-                <h1 className=' font-bold text-xl cursor-pointer'>Priy<span className=' text-red-600 text-2xl'>anka</span>
+                <h1 className=' font-bold text-3xl cursor-pointer'>Priy<span className=' text-white rounded-lg p-1 text-xl bg-pink-500'>anka</span>
                 <p className=' text-sm text-green-800'>Software Developer</p>
                 </h1>
                
