@@ -37,10 +37,10 @@ function Portfolio() {
       <div className=' max-w-screen-2xl container px-4 md:-ml-36 mt-8  md:px-20 '>
       <div className=' bg-pink-200 md:h-[300px] md:w-[300px]  mt-16 rounded-2xl  pt-5 pb-5 shadow-2xl hover:scale-105 duration-150'>
              <div className=' text-center justify-center mx-12  '>
-             <h1 className=' text-red-900 font-bold text-2xl'>Calculator</h1>
-             <p className=' mt-7 font-bold '>Fully functional calculator with beautiful Minimilastic ui design and drop down menu.it can perform arithmetic eyc operations.</p>
-            <a href="">
-            <button className=' bg-red-800 h-[40px] w-[100px] mt-10 rounded-lg text-white shadow-2xl hover:bg-green-900'>View Project</button>
+             <h1 className=' text-red-900 font-bold text-2xl'>Tic-Tac-Toe</h1>
+             <p className=' mt-7 font-bold '>Tic-Tac-Toe Game using JavaScript.We will be using validation checks to implement the game features.</p>
+            <a href="https://cerulean-nasturtium-d89dbc.netlify.app" target='blanck'>
+            <button className=' bg-red-800 h-[40px] w-[100px]  mt-10 rounded-lg text-white shadow-2xl hover:bg-green-900'>View Project</button>
             </a>
              </div>
           </div>
