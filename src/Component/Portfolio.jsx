@@ -52,9 +52,9 @@ function Portfolio() {
 
           <div className=' bg-green-200 md:h-[300px] md:w-[300px] md:mx-20 pt-5 pb-5 mt-24 rounded-2xl shadow-2xl hover:scale-105 duration-150'>
              <div className=' text-center justify-center mx-12 '>
-             <h1 className=' text-red-900 font-bold text-2xl'>My Portfolio</h1>
-             <p className=' mt-7 font-bold '>it is My previous portfolio that i have build up Earlier. it shaows the work i have created as well as my skill and Exeperience.</p>
-            <a href="">
+             <h1 className=' text-red-900 font-bold text-2xl'>Clone..</h1>
+             <p className=' mt-7 font-bold '>With the help of HTML,CSS,JS.I’ll make a clone of the whiteFX website fully responsive.</p>
+            <a href="https://adorable-pastelito-4e3897.netlify.app/">
             <button className=' bg-red-800 h-[40px] w-[100px] mt-10 rounded-lg text-white shadow-2xl hover:bg-green-900'>View Project</button>
             </a>
              </div>
