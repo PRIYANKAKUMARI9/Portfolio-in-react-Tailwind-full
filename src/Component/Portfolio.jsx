@@ -14,8 +14,8 @@ function Portfolio() {
           <div className=' bg-green-200 md:h-[300px] md:w-[300px] md:mx-20 pt-5 pb-5 mt-24 rounded-2xl shadow-2xl hover:scale-105 duration-150'>
              <div className=' text-center justify-center mx-12 '>
              <h1 className=' text-red-900 font-bold text-2xl'>Projects in Js</h1>
-             <p className=' mt-7 font-bold '>These JavaScript projects have been created using HTML, CSS, and JavaScript. HTML and CSS were used to design the user interface, while JavaScript was utilized to add functionality to the projects. </p>
-            <a href="">
+             <p className=' mt-7 font-bold '>These JavaScript projects have been created using HTML,CSS, and JavaScript. </p>
+            <a href="https://all-project-js-of.netlify.app">
             <button className=' bg-red-800 h-[40px] w-[100px] mt-10 rounded-lg text-white shadow-2xl hover:bg-green-900'>View Project</button>
             </a>
              </div>
